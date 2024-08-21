@@ -1,15 +1,15 @@
 {
-  "name": "sools-management-client",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "sools-management": "^1.0.0",
-    "sools-modeling-client": "^1.0.0"
-  }
+ "name": "sools-auth-client",
+ "version": "1.1.0",
+ "description": "",
+ "main": "index.js",
+ "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1"
+ },
+ "author": "",
+ "license": "ISC",
+ "dependencies": {
+  "sools-auth": "1.9.0",
+  "sools-modeling-client": "1.1.0"
+ }
 }
